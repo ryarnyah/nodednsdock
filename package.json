@@ -1,0 +1,14 @@
+{
+  "name": "nodednsdock",
+  "description": "DNSDOCk node version.",
+  "version": "0.0.1",
+  "author": "Ryar Nyah",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dnsd": "^0.9.6",
+    "dockerode": "^2.2.9",
+    "async": "^1.5.2"
+  }
+}
